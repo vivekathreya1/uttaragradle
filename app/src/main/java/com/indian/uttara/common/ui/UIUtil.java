@@ -1,4 +1,4 @@
-package com.indian.uttara.commonui;
+package com.indian.uttara.common.ui;
 
 import android.app.ProgressDialog;
 import android.content.Context;

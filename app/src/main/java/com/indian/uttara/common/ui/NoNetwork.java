@@ -1,4 +1,4 @@
-package com.indian.uttara.commonui;
+package com.indian.uttara.common.ui;
 
 import android.content.Context;
 import android.content.Intent;

@@ -1,10 +1,10 @@
-package com.indian.uttara.commonapi;
+package com.indian.uttara.api;
 
-import com.indian.uttara.apimodel.CartQntValidateRepo;
-import com.indian.uttara.apimodel.OtpVerifyRepo;
-import com.indian.uttara.apimodel.PayuHashRepo;
-import com.indian.uttara.apimodel.ServicesRepo;
-import com.indian.uttara.apimodel.SmsRequestRepo;
+import com.indian.uttara.api.model.CartQntValidateRepo;
+import com.indian.uttara.api.model.OtpVerifyRepo;
+import com.indian.uttara.api.model.PayuHashRepo;
+import com.indian.uttara.api.model.ServicesRepo;
+import com.indian.uttara.api.model.SmsRequestRepo;
 
 import java.util.List;
 

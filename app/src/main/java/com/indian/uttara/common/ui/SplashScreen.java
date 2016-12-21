@@ -1,4 +1,4 @@
-package com.indian.uttara.commonui;
+package com.indian.uttara.common.ui;
 
 import android.Manifest;
 import android.annotation.TargetApi;
@@ -12,11 +12,10 @@ import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.indian.uttara.R;
-import com.indian.uttara.apimodel.ServicesRepo;
-import com.indian.uttara.common.NetworkStatusReceiver;
-import com.indian.uttara.commonapi.ApiServiceInterface;
-import com.indian.uttara.commonapi.RestClient;
-import com.indian.uttara.commondb.DbHelper;
+import com.indian.uttara.api.model.ServicesRepo;
+import com.indian.uttara.api.ApiServiceInterface;
+import com.indian.uttara.api.RestClient;
+import com.indian.uttara.common.database.DbHelper;
 import com.indian.uttara.main.view.MainActivity;
 
 import java.util.ArrayList;

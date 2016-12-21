@@ -1,4 +1,4 @@
-package com.indian.uttara.commonui;
+package com.indian.uttara.common.ui;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.indian.uttara.R;
-import com.indian.uttara.apimodel.ServicesRepo;
+import com.indian.uttara.api.model.ServicesRepo;
 
 import java.util.List;
 

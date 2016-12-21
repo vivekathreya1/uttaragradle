@@ -1,4 +1,4 @@
-package com.indian.uttara.commonapi;
+package com.indian.uttara.api;
 
 import java.util.concurrent.TimeUnit;
 

@@ -1,4 +1,4 @@
-package com.indian.uttara.apimodel;
+package com.indian.uttara.api.model;
 
 import java.sql.Date; 
 import java.util.Map;

@@ -24,7 +24,7 @@
         </activity>
 
         <activity
-            android:name=".commonui.SplashScreen"
+            android:name=".common.ui.SplashScreen"
             android:screenOrientation="portrait">
 
             <intent-filter>
@@ -42,7 +42,7 @@
             android:screenOrientation="portrait"></activity>
 
         <activity
-            android:name=".commonui.NoNetwork"
+            android:name=".common.ui.NoNetwork"
             android:screenOrientation="portrait"></activity>
     </application>
 

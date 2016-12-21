@@ -1,4 +1,4 @@
-package com.indian.uttara.commondb;
+package com.indian.uttara.common.database;
 
 /**
  * Created by Vivekathreya on 9/4/2016.

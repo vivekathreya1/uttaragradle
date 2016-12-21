@@ -1,4 +1,4 @@
-package com.indian.uttara.apimodel;
+package com.indian.uttara.api.model;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
